@@ -17,3 +17,4 @@ This project contains a Python implementation of **Batch Gradient Descent** usin
 - Easy to understand and modify
 
 
+KAGGLE LINK:- https://www.kaggle.com/code/vedantibotkulwar/batch-gradient-descent
